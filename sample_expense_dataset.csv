@@ -1,0 +1,170 @@
+Date,Category,Amount,Description
+2026-01-01,Food,250,Breakfast
+2026-01-02,Travel,800,Cab Ride
+2026-01-03,Bills,2200,Electricity Bill
+2026-01-04,Shopping,1500,Clothes
+2026-01-05,Entertainment,700,Movie
+2026-01-06,Food,450,Dinner
+2026-01-07,Travel,1200,Bus Pass
+2026-01-08,Bills,1800,Internet Bill
+2026-01-09,Shopping,2500,Shoes
+2026-01-10,Food,350,Lunch
+2026-01-11,Entertainment,900,Concert
+2026-01-12,Travel,650,Metro Card
+2026-01-13,Bills,3000,Rent
+2026-01-14,Shopping,1300,Grocery
+2026-01-15,Food,600,Snacks
+2026-01-16,Entertainment,1200,Theme Park
+2026-01-17,Travel,700,Taxi
+2026-01-18,Bills,2100,Water Bill
+2026-01-19,Shopping,900,Bag
+2026-01-20,Food,500,Dinner
+2026-01-21,Travel,1400,Train Ticket
+2026-01-22,Bills,2500,Gas Bill
+2026-01-23,Entertainment,1100,Streaming
+2026-01-24,Shopping,1600,Watch
+2026-01-25,Food,300,Coffee
+2026-01-26,Travel,1000,Flight Ticket
+2026-01-27,Bills,2700,Maintenance
+2026-01-28,Entertainment,750,Games
+2026-01-29,Shopping,2200,Mobile Accessories
+2026-01-30,Food,450,Restaurant
+2026-02-01,Travel,900,Bus Ticket
+2026-02-02,Bills,2000,Electricity
+2026-02-03,Shopping,1800,Groceries
+2026-02-04,Entertainment,650,Cinema
+2026-02-05,Food,550,Lunch
+2026-02-06,Travel,1100,Cab
+2026-02-07,Bills,3200,Rent
+2026-02-08,Shopping,1700,Perfume
+2026-02-09,Food,400,Snacks
+2026-02-10,Entertainment,950,Music
+2026-02-11,Travel,750,Auto
+2026-02-12,Bills,2400,Phone Bill
+2026-02-13,Shopping,2600,Jacket
+2026-02-14,Food,700,Dinner
+2026-02-15,Entertainment,1400,Trip
+2026-02-16,Travel,850,Metro
+2026-02-17,Bills,1900,Internet
+2026-02-18,Shopping,1450,Books
+2026-02-19,Food,500,Breakfast
+2026-02-20,Travel,950,Taxi
+2026-02-21,Bills,2800,Water Bill
+2026-02-22,Entertainment,1050,Netflix
+2026-02-23,Shopping,1900,Headphones
+2026-02-24,Food,600,Lunch
+2026-02-25,Travel,1300,Train
+2026-02-26,Bills,2600,Gas
+2026-02-27,Entertainment,850,Cricket Match
+2026-02-28,Shopping,2400,Smartwatch
+2026-03-01,Food,350,Coffee
+2026-03-02,Travel,1150,Flight
+2026-03-03,Bills,3300,Rent
+2026-03-04,Shopping,1750,Groceries
+2026-03-05,Entertainment,950,Party
+2026-03-06,Food,450,Dinner
+2026-03-07,Travel,800,Bus
+2026-03-08,Bills,2100,Electricity
+2026-03-09,Shopping,2800,Laptop Bag
+2026-03-10,Food,650,Restaurant
+2026-03-11,Entertainment,1250,Vacation
+2026-03-12,Travel,900,Cab
+2026-03-13,Bills,1950,Phone Bill
+2026-03-14,Shopping,1550,Shoes
+2026-03-15,Food,550,Lunch
+2026-03-16,Entertainment,700,Movies
+2026-03-17,Travel,1400,Train
+2026-03-18,Bills,3000,Rent
+2026-03-19,Shopping,1850,Accessories
+2026-03-20,Food,400,Breakfast
+2026-03-21,Travel,1200,Taxi
+2026-03-22,Bills,2300,Water
+2026-03-23,Entertainment,950,Music
+2026-03-24,Shopping,2100,Clothes
+2026-03-25,Food,600,Dinner
+2026-03-26,Travel,850,Metro
+2026-03-27,Bills,2700,Internet
+2026-03-28,Entertainment,1350,Gaming
+2026-03-29,Shopping,2500,Phone
+2026-03-30,Food,500,Snacks
+2026-04-01,Travel,1000,Flight
+2026-04-02,Bills,3200,Rent
+2026-04-03,Shopping,1650,Groceries
+2026-04-04,Entertainment,800,Cinema
+2026-04-05,Food,700,Lunch
+2026-04-06,Travel,950,Cab
+2026-04-07,Bills,2100,Electricity
+2026-04-08,Shopping,1950,Books
+2026-04-09,Food,450,Dinner
+2026-04-10,Entertainment,1200,Trip
+2026-04-11,Travel,1150,Train
+2026-04-12,Bills,2500,Gas
+2026-04-13,Shopping,1750,Watch
+2026-04-14,Food,550,Coffee
+2026-04-15,Entertainment,900,Games
+2026-04-16,Travel,850,Metro
+2026-04-17,Bills,2800,Phone
+2026-04-18,Shopping,2200,Shoes
+2026-04-19,Food,650,Restaurant
+2026-04-20,Travel,1300,Taxi
+2026-04-21,Bills,2400,Internet
+2026-04-22,Entertainment,1100,Streaming
+2026-04-23,Shopping,2600,Mobile
+2026-04-24,Food,500,Breakfast
+2026-04-25,Travel,900,Bus
+2026-04-26,Bills,3100,Rent
+2026-04-27,Shopping,1450,Bag
+2026-04-28,Entertainment,1000,Concert
+2026-04-29,Food,600,Dinner
+2026-04-30,Travel,1200,Train
+2026-05-01,Bills,2200,Electricity
+2026-05-02,Shopping,1800,Groceries
+2026-05-03,Entertainment,750,Movie
+2026-05-04,Food,450,Lunch
+2026-05-05,Travel,1000,Cab
+2026-05-06,Bills,2600,Gas
+2026-05-07,Shopping,2100,Accessories
+2026-05-08,Entertainment,950,Party
+2026-05-09,Food,700,Dinner
+2026-05-10,Travel,850,Metro
+2026-05-11,Bills,3000,Rent
+2026-05-12,Shopping,1700,Books
+2026-05-13,Entertainment,1250,Vacation
+2026-05-14,Food,500,Snacks
+2026-05-15,Travel,1100,Taxi
+2026-05-16,Bills,2400,Internet
+2026-05-17,Shopping,2300,Headphones
+2026-05-18,Entertainment,850,Games
+2026-05-19,Food,600,Lunch
+2026-05-20,Travel,1300,Train
+2026-05-21,Bills,2800,Water
+2026-05-22,Shopping,2500,Phone
+2026-05-23,Entertainment,1000,Streaming
+2026-05-24,Food,550,Dinner
+2026-05-25,Travel,900,Cab
+2026-05-26,Bills,3200,Rent
+2026-05-27,Shopping,1900,Shoes
+2026-05-28,Entertainment,1150,Concert
+2026-05-29,Food,450,Coffee
+2026-05-30,Travel,1400,Flight
+2026-05-31,Bills,2100,Electricity
+2026-06-01,Shopping,1750,Groceries
+2026-06-02,Entertainment,800,Movie
+2026-06-03,Food,650,Restaurant
+2026-06-04,Travel,950,Metro
+2026-06-05,Bills,2700,Gas
+2026-06-06,Shopping,2200,Watch
+2026-06-07,Entertainment,1050,Gaming
+2026-06-08,Food,500,Breakfast
+2026-06-09,Travel,1200,Train
+2026-06-10,Bills,3000,Rent
+2026-06-11,Shopping,1850,Accessories
+2026-06-12,Entertainment,950,Music
+2026-06-13,Food,600,Dinner
+2026-06-14,Travel,850,Taxi
+2026-06-15,Bills,2300,Phone
+2026-06-16,Shopping,2400,Smartwatch
+2026-06-17,Entertainment,1300,Vacation
+2026-06-18,Food,550,Lunch
+2026-06-19,Travel,1000,Cab
+2026-06-20,Bills,2600,Internet
